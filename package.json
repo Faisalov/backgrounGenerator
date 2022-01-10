@@ -1,0 +1,24 @@
+{
+  "name": "backgroungenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backgroundGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faisalov/backgrounGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faisalov/backgrounGenerator/issues"
+  },
+  "homepage": "https://github.com/Faisalov/backgrounGenerator#readme",
+  "dependencies": {
+    "open": "^8.4.0",
+    "source-map-resolve": "^0.6.0",
+    "urix": "^0.1.0"
+  }
+}
